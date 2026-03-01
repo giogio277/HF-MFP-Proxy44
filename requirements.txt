@@ -19,3 +19,4 @@ tqdm
 aiofiles
 httpx[socks]
 psutil
+aiohttp
